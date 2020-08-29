@@ -9,14 +9,17 @@ body {
   color: #141414;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
-}
-
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   margin-top: 10px;
   margin-bottom: 5px;
+}
+
+#preview code {
+  background: #d8d8d8;
+  display: inline-block;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  padding: 2px 5px;
 }
 
 .center {

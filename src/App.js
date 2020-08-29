@@ -10,12 +10,12 @@ function App() {
 
 [link](https://www.freecodecamp.com)
 
-inline code: \`<div></div>\`,
+inline code: \`<div></div>\`
 
 \`\`\`
-// this is multi-line code-block:
+// this is multi-line code-block
 function add(num1, num2) {
-	return num1+num2
+	return num1+num2;
 }
 \`\`\`
 
